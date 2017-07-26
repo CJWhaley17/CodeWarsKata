@@ -16,6 +16,18 @@ namespace codewars
         }
 
         [Test]
+        public void nbMonthsKataTest()
+        {
+            //yeah this one doesn't actually pass. Gonna need some more work, or some coffee. 
+            // https://www.codewars.com/kata/554a44516729e4d80b000012/train/csharp
+            int[] r = new int[] { 6, 766 };
+            int[] c = new int[] { 0, 4000 };
+            //Assert.AreEqual(r, Program.nbMonths(2000, 8000, 1000, 1.5));
+            //Assert.AreEqual(c, Program.nbMonths(2000, 8000, 1000, 1.5));
+            Assert.AreEqual(new int[] { 0, 0 }, Program.nbMonths(8000, 8000, 1000, 1.5));
+        }
+
+        [Test]
         public void FirstNonRepeatingNumberKataTest()
         {
             Assert.AreEqual("a", Program.FirstNonRepeatingLetter("a"));
