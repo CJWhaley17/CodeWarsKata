@@ -28,3 +28,6 @@ C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\code
 C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\nunit.framework.dll
 C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\nunit.framework.xml
 C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\obj\Debug\codewars.csprojResolveAssemblyReference.cache
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\codewars.exe.config
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\obj\Debug\codewars.exe
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\obj\Debug\codewars.pdb
