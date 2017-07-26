@@ -16,6 +16,15 @@ namespace codewars
         }
 
         [Test]
+        public void FirstNonRepeatingNumberKataTest()
+        {
+            Assert.AreEqual("a", Program.FirstNonRepeatingLetter("a"));
+            Assert.AreEqual("t", Program.FirstNonRepeatingLetter("stress"));
+            Assert.AreEqual("e", Program.FirstNonRepeatingLetter("moonmen"));
+            Assert.AreEqual("T", Program.FirstNonRepeatingLetter("sTreSS"));
+        }
+
+        [Test]
         public void GetLengthOfMissingArrayKataTest()
         {
             Assert.AreEqual(3, Program.GetLengthOfMissingArray(new object[][] { new object[] { 1, 2 }, new object[] { 4, 5, 1, 1 }, new object[] { 1 }, new object[] { 5, 6, 7, 8, 9 } }));
